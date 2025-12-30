@@ -1,0 +1,8 @@
+{
+  "name": " POULTRY MADEICNE BY JUNAID.com",
+  "description": "A comprehensive poultry health management platform featuring AI-powered diagnostics, medication guides, and real-time expert consultations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
